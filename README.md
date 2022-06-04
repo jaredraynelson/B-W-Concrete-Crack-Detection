@@ -1,4 +1,4 @@
-# B-W-Concrete-Crack-Detection
+# B & W Concrete Crack Detection
 
 Detection of concrete cracks using Deep Learning (Tensorflow Keras API)
 
