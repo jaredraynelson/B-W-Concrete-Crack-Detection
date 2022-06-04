@@ -7,4 +7,13 @@ project was downloaded from Mendeley Data: http://dx.doi.org/10.17632/5y9wdsg2zt
 
 How to use the files
 
+The script will produce a training_dataset.npy file that will be used for further iterations to decrease the processing time.
+
+Make sure these are installed before running the script:
+pip3 install matplotlib
+pip3 install tqdm
+pip3 install opencv-python
+pip3 install numpy
+pip3 install tensorflow
+
 Simply Run the main.ipynb file, on the dataset, and you should be good to go. (:
